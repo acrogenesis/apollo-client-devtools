@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "apollo-client-devtools@acrogenesis.com": {
+      "updates": [
+        {
+          "version": "2.2.2",
+          "update_link": "https://github.com/acrogenesis/apollo-client-devtools/releases/download/FF2.2.2/apollo_client_developer_tools-2.2.2-fx.xpi"
+        }
+      ]
+    }
+  }
+}
